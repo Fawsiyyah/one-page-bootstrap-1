@@ -5,7 +5,7 @@
 }
 
 .top-hero-section{
-    background-image: ;
+    background-image: url(../img/hero-bg.jpg) ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -36,4 +36,15 @@
 #count-section h2{
     font-size: 48px;
     font-weight: 700;
+}
+
+#client-section img {
+    max-width: 45%;
+    filter: grayscale(100);
+    transition: all o.4s ease-in-out;
+}
+
+#client-section img:hover {
+    filter: grayscale(0);
+    transform: scale(1.15);
 }
