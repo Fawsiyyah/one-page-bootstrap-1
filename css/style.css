@@ -48,3 +48,11 @@
     filter: grayscale(0);
     transform: scale(1.15);
 }
+
+#service-section {
+    background-color: #f8fbfe;
+}
+
+.service-box{
+    background-color: white;
+}
