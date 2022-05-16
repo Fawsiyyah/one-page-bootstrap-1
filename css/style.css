@@ -56,3 +56,20 @@
 .service-box{
     background-color: white;
 }
+
+#Action-section {
+    background-color:rgb(16, 147, 190);
+    color: white;
+}
+
+#portfolios .images:hover {
+    transform: scale(1.15);
+}
+
+#Teams {
+    background-color: ghostwhite;
+}
+
+#Teams .team-image {
+    background-color: white;
+}
