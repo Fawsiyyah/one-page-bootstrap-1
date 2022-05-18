@@ -70,6 +70,25 @@
     background-color: ghostwhite;
 }
 
-#Teams .team-image {
+.team-image {
     background-color: white;
 }
+
+.team-image .socials ::before{
+
+}
+
+.prices {
+    background-color: #f8fbfe;
+}
+
+#price-section .business {
+    background-color:rgb(16, 147, 190);
+    color: white;
+}
+
+#price-section .price, #price-section .developer {
+    background-color: white;
+    color: #007aff;
+}
+
